@@ -1,2 +1,2 @@
 # dm-repo-main
-DM project repository
+[DM](https://github.com/TruncatedDinosour/dm) project repository
