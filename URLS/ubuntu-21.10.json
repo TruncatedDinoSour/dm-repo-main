@@ -1,0 +1,9 @@
+{
+  "name": "canonical ubuntu 21.10",
+  "description": "Ubuntu linux 21.10 release by canonical",
+  "url": "https://al.mirror.kumi.systems/ubuntureleases/21.10/ubuntu-21.10-desktop-amd64.iso".
+  "keywords": ["ubuntu2010", "ubuntu-desktop", "ubuntureleases"]
+  "protocol": "https",
+  "speed": 100,
+  "size": 3116482560
+}
