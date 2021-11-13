@@ -5,7 +5,7 @@
   "keywords": ["gentbox", "gentoo livecd", "gentoolinux", "gentoo"],
   "protocol": "https",
   "speed": 6420,
-  "size": 446464,
+  "size": 457179136,
   "checksums": {
     "sha512": "cfba118743d6ee14ac3e230d1323bb0b0415768dfa1e05400a51c2773f716b655dbdbcdcb5180652715e26c5ae299e9ac606a6022cef674e9f4c60437c67c751",
     "sha256": "8b089e8e844897e1a9aeae6144e5d38e254adebdaeaa42d13289f6ae5373d57e",
