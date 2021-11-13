@@ -1,0 +1,14 @@
+{
+  "name": "Vivaldi browser",
+  "description": "Vivaldi is a freeware, cross-platform web browser developed by Vivaldi Technologies, a company founded by Tatsuki Tomita and Jon Stephenson von Tetzchner, who was the co-founder and CEO of Opera Software. Vivaldi was officially launched on April 6, 2016. Its headquarters are in Oslo, Norway and offices in Iceland and the USA.",
+  "url": "https://downloads.vivaldi.com/stable/vivaldi-stable_4.3.2439.65-1_amd64.deb",
+  "keywords": ["vivaldi-browser", "vivaldi browser", "vivaldi", "chrome"],
+  "protocol": "https",
+  "speed": 13312,
+  "size": 87975526.4,
+  "checksums": {
+    "sha512": "630eaddf0f53c1b19dd7c4ed1479ee2bf05da6b9013c3d2d39440d96502190175891056fa9d16dd5676c8c2650cb78e48e0667f20a64e8586dcd0a6250804e2c",
+    "sha256": "42d6a7568b7b45c3b3d5a47e0ff51c46b80eab00645a17961be32f5320df10d1",
+    "md5": "debff74d342d9fb886b2ce3ce47e9565"
+  }
+}
