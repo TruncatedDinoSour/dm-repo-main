@@ -5,5 +5,8 @@
   "keywords": ["ubuntu2010", "ubuntu-desktop", "ubuntureleases", "ubuntu"],
   "protocol": "https",
   "speed": 492,
-  "size": 3116482560
+  "size": 3116482560,
+  "checksums": {
+    "sha256": "f8d3ab0faeaecb5d26628ae1aa21c9a13e0a242c381aa08157db8624d574b830"
+  }
 }
