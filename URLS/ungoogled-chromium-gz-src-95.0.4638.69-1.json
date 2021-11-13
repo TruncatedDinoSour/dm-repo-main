@@ -5,7 +5,7 @@
   "keywords": ["ungoogled chromium", "google", "chroium", "chrome"],
   "protocol": "https",
   "speed": 460,
-  "size": 701,
+  "size": 717824,
   "checksums": {
     "sha512": "589e58f4a2ca5a461b016d6372c44242cef774c3c427dab2c899c91f0413ef11d174c850858ea0b4819e7042e25e034dac071437387767ef485c43f7e24b5499",
     "sha256": "35debe7f407a4749d4454fc78f52c18955f1d8400750fdc20b179f528106c658",
