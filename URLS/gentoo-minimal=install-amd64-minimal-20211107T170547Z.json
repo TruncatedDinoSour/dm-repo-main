@@ -1,0 +1,14 @@
+{
+  "name": "Gentoo linux ISO",
+  "description": "Gentoo linux AMD64 (x86_64) ISO - 2021-11-07 build",
+  "url": "https://bouncer.gentoo.org/fetch/root/all/releases/amd64/autobuilds/20211107T170547Z/install-amd64-minimal-20211107T170547Z.iso",
+  "keywords": ["gentbox", "gentoo livecd", "gentoolinux", "gentoo"],
+  "protocol": "https",
+  "speed": 6420,
+  "size": 446464,
+  "checksums": {
+    "sha512": "cfba118743d6ee14ac3e230d1323bb0b0415768dfa1e05400a51c2773f716b655dbdbcdcb5180652715e26c5ae299e9ac606a6022cef674e9f4c60437c67c751",
+    "sha256": "8b089e8e844897e1a9aeae6144e5d38e254adebdaeaa42d13289f6ae5373d57e",
+    "md5": "6b83908df5d43228247627a58449f6ab"
+  }
+}
