@@ -5,5 +5,8 @@
   "keywords": ["mint", "linux", "linuxmint", "linux-mint", "linux mint"],
   "protocol": "https",
   "speed": 14950,
-  "size": 1942000000
+  "size": 1942000000,
+  "checksums": {
+    "sha256": "3ade2a59635a071c42e68721cbcd3a43b8e511b22a1c56b16b451448d440c613"
+  }
 }
