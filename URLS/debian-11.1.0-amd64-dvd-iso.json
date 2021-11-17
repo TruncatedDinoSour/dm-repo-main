@@ -1,0 +1,30 @@
+{
+    "name": "Debian linux amd64 (x86_64) release 11.1.0 (DVD image)",
+    "description": "Debian, also known as Debian GNU/Linux, is a GNU/Linux distribution composed of free and open-source software, developed by the community-supported Debian Project",
+    "url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-11.1.0-amd64-DVD-1.iso",
+    "keywords": [
+        "debian",
+        "deb",
+        "debianlinux",
+        "debian linux",
+        "debiandvd",
+        "deianiso"
+    ],
+    "protocol": "https",
+    "speed": 10190.0,
+    "size": 3976200192,
+    "checksums": {
+        "sha1": "e04a7878a4808dd1e31aa0860e341004481aa0d1",
+        "sha224": "31758190167c30dda79f21ddb74695aea606753d9c1d6c879bdcab38",
+        "blake2b": "7d7e14e32eaac99efef0b46aa8a01ba599dafc357c4f1f8776a138419e1c024e99429ba5ae03a26b83d635d41e2bc14dcae643489f6707bc6bea397ab39455a9",
+        "sha3_256": "4d8148c968d0ae3be0f151cea48548a98817b55beab4b702203b8e9549595d5a",
+        "md5": "27ba728881caeb73b49121697bf3af00",
+        "sha3_384": "99042480460c4adcff825c2ca45b8758010bbf16a94e3049f125846d27aefff7ee582108a394e47f3e83f8540fa91472",
+        "sha3_512": "04231b9004821cc7f8321f32a2e5baa6b852b4c924b2856ca01c9fd54bba9c70ec7cecab73bc9099e1997f7ac3f1861cf1fb3d60e3a2e793e75f1a1bbe78da79",
+        "sha512": "5ab8940d4721b0b7627ce19da83f9e1acc74b8651980402a33adfb08e4b8b6d613993f5d6f05fa879fc275d89d378b3f8e165a026f613a4936acb662b4e37cde",
+        "blake2s": "4ae432e478a3d0f9f48827884741bb29efe1d6b5b5fc58d5956572286cc89279",
+        "sha3_224": "b34f299fd6294bc2350b53b4cf82067611cc31ac1fa7d529b7c13bdd",
+        "sha256": "30f135e88d42cf0f4933fb3c02d293d27f23b13d2bda80d4b2bd2f69bd969d26",
+        "sha384": "e81b653b34bb1bb87e866a90735b29743d1a752a0835579d070abce7b52a3f670dd584ca0dfcab7637be4b50615b01c2"
+    }
+}
