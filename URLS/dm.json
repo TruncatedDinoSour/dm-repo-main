@@ -1,0 +1,29 @@
+{
+    "name": "DM - Download Manager",
+    "description": "A utility to help you download things...",
+    "url": "https://raw.githubusercontent.com/TruncatedDinosour/dm/main/dm",
+    "keywords": [
+        "dm",
+        "download manager",
+        "manager",
+        "download",
+        "downloads"
+    ],
+    "protocol": "https",
+    "speed": 60.5,
+    "size": 15777,
+    "checksums": {
+        "blake2s": "73bf6805decd7cd3f0b5c4f7aad627d0f1fab5437043f821a24ebd8b747844d1",
+        "sha3_224": "9bfddf30d352f67820c8f56f7936b8075a66da747ad528eded5f72bb",
+        "md5": "5a3b085810be657c60bf74e33153f4ee",
+        "sha3_512": "99fa973b7656f79fbf5af0a5c35838eb486e73e0514dd59f62d64474ac68a62d716be42fb1992b15eb4ccac12d66ba8f3366686e886c8a0184ca5dd7e2f41e93",
+        "sha384": "dd86b5123944b0226dbb91e92162431d63bded904bdbe541244866e1206346214cc7225ce27ffe32b009ff72ed3dd3cc",
+        "sha3_384": "88ca8fe1e4351aa40211c2960517f894588e5561d02c3b2b31ccba3f628c376358f58b346761df4cd958da3b07e5b621",
+        "sha224": "83a31c2d9eec90d56baca8cba09279c74d97552c03cda3aed36488f3",
+        "sha1": "ecd8f7bbdc26b7941aa3715d056be2be3899e482",
+        "blake2b": "a36ad3f9d0ef2b1b0c00280457806f84c1fc6da92a9b3d5c1291e8bc3a488f1680ec0152fe1623ce25cf19234c0c80acd94de9f644d8b5a534264a317f278926",
+        "sha512": "eb48fd452a7a039a7132b9001f532081bdadfc6e31ffbb84424b484df0bddbd969aa0b3e1f83acecff9c3d5e1f55054b110f7f719df91039d3032bc8bc6ec8f5",
+        "sha3_256": "c59c40b92d1dedd860565bdc0d16dc9eaa51f9c62191355196ebbecb9e0e1416",
+        "sha256": "68a1bdf52670ce52aaeed2338f164f2d0e38ce7683e632c1662eb829dad58919"
+    }
+}
