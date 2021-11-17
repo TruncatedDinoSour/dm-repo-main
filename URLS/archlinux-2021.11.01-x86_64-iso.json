@@ -1,0 +1,15 @@
+{
+  "name": "arch linux 2021.11.01 x86_64 iso",
+  "description": "arch linux release 2021.11.01 for x86_64",
+  "url": "https://mirror.rackspace.com/archlinux/iso/2021.11.01/archlinux-2021.11.01-x86_64.iso",
+  "keywords": ["arch", "archlinux", "iuseaechbtw", "arch linux 2021.11"],
+  "protocol": "https",
+  "speed": 10547.2,
+  "size": 887095296,
+  "checksums": {
+    "sha512": "6bd697345e155d9dddfe8ce37eda41237fb5c94c47ee850ae86d3a077977baa9eefd5d74c2f2cc02417d0362d38e594613b81eb858a7e707f8f2443085707a56",
+    "sha256": "bf8da6a8c3a59b76be8652645f0a2c2845d7566fdc1724f8f7c3a2a7d90f017d",
+    "sha1": "d81bff7f9b05653b048529d741edcce99bc97819",
+    "md5": "e42e562dd005fbe15ade787fe1ddba48"
+  }
+}
