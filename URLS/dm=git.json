@@ -1,0 +1,16 @@
+{
+    "name": "DM - Download Manager",
+    "description": "A utility to help you download things...",
+    "url": "https://raw.githubusercontent.com/TruncatedDinosour/dm/main/dm",
+    "keywords": [
+        "dm",
+        "download manager",
+        "manager",
+        "download",
+        "downloads"
+    ],
+    "protocol": "https",
+    "speed": 60.5,
+    "size": 15777,
+    "checksums": {}
+}
