@@ -1,0 +1,31 @@
+{
+    "name": "Gentoo linux ISO (normal) 2021.11.14 -- 20211114T170549Z",
+    "description": "Gentoo GNU/Linux HTTP download ISO -- 2021.11.14 (20211114T170549Z) release/build",
+    "url": "https://bouncer.gentoo.org/fetch/root/all/releases/amd64/autobuilds/20211114T170549Z/install-amd64-minimal-20211114T170549Z.iso",
+    "keywords": [
+        "gentoo",
+        "gentoolinux",
+        "gentoo linux",
+        "2021.11.14",
+        "20211114T170549Z",
+        "http",
+        "https"
+    ],
+    "protocol": "https",
+    "speed": 9930.0,
+    "size": 457179136,
+    "checksums": {
+        "md5": "cc86e15fcc17a063792ddb6ce753fb4d",
+        "sha256": "44f2c5dd96dda8f1af23f0bc52a9079db0dfe5f094078728880baf2c02777abe",
+        "sha3_384": "034841722d616ca2162606f9c11f120bc6b4aa9845a43b6fb7d1a9fc30b22e8434d6cfe99969a6c25a30ae583e54a78f",
+        "sha3_512": "bd8e7cb7ffa530d7a4e8350aef908ec5e0890d3936ab26b4f097dfaf8b5d04df73cbd2c7f85a036409c94cc019496d7d8b3e4ad57b1c44661aa311e29243cda2",
+        "sha224": "bec7165e0d0da74eedbe34fe7f0997ff46164f3ea7bc0ba82d013143",
+        "sha512": "56e9f63c0c4d92a4ae900e63b56a529d327c57e77e335df9e1c2d6a306d70719ed0b84e9f3945358b9fafbf9261c7d7bbb6db0743588fbd3a225ff5773b3cff9",
+        "blake2b": "7a8ae425e28513c0c48148391c04ad9556d8d658fd2e9c79246c511e651dc0082815b507f771abd592323ce297bfa0ed59f0c2111953667a01a034cbee0b24c2",
+        "blake2s": "5ae610c8db2bd298ba6205ab30f49e6cf0b78c5a4a475b75b4aefa82124b0443",
+        "sha3_256": "db9c725677c4a0a9a883f4fe596d2c99626071b7455d79bd01364cd40dc71c3d",
+        "sha3_224": "9b8f2e7dee058f1983bf47b77e9b7a477972408ffc459c706e99ab08",
+        "sha384": "284c931cd5f7c8b9610a05d17156e7796b5f0cf89e7e19da53400f502648031b764e929d2cc973e7c9f190fab16452d0",
+        "sha1": "b085fa332bc69d8e3ab911a5acb15d1f9d61b927"
+    }
+}
