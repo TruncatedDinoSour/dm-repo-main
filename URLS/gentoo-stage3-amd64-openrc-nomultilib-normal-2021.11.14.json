@@ -1,0 +1,32 @@
+{
+    "name": "Gentoo stage3 tarball (no multilib, openRC, normal) - 2021.11.14 iso release",
+    "description": "Gentoo stage3 XZ compressed tarball",
+    "url": "https://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/releases/amd64/autobuilds/current-stage3-amd64-nomultilib-openrc/stage3-amd64-nomultilib-openrc-20211114T170549Z.tar.xz",
+    "keywords": [
+        "stage3",
+        "gentoo",
+        "xz",
+        "2021.11.14",
+        "nomultilib",
+        "no multilib",
+        "no-multilib",
+        "openrc"
+    ],
+    "protocol": "https",
+    "speed": 10600.0,
+    "size": 203071756,
+    "checksums": {
+        "md5": "063e97fb320d3977d75d7c71753fd7e8",
+        "sha3_384": "a92e7c4473e1950ba860f280c1bcd37c05691b6b15c2d2cb0b4a32edfbad3a7bb6a49421a3626a4b20015e3510ba1bbe",
+        "sha1": "ed1102869bb219e76262476e2298cf75c30002fd",
+        "sha384": "4bdbefb6f6e0fdd17f292546abd4912bad356e84ec1d9ed47e07648b3a0a81e65a9c27a0a12327bba9b1e55250487cb7",
+        "blake2b": "4204252d0d42b395c1a1fb0d398cd06ceca496da2b56c6e8dd269bb2575f66e130e7b0196f195d7115c3e72f34e2e0f7008ba7c569374bf14b3dc9ab3114d759",
+        "sha256": "c7e7a7dff682ac75d7a28c5bbaf4b7df72497c3dbec9f95d0f0fec22b7c31cbf",
+        "blake2s": "e9bb685b6372ee89b4b11845a86243128b8adb5331b96214644555095f667d6b",
+        "sha3_512": "7f99f1ae8c3022f942dab0247af81a15facdc3f216d0fa93cb41b169c6428c8eb9fe9aee6476e949a441bd3e1fc0ce88dc5f5fbeabfc9c9282d11e760febe213",
+        "sha3_224": "95fe77ae13634ddf7d16f5770904737ae521dd909b24f859541e2100",
+        "sha3_256": "651a1a45e191178c80504afeb304bd90e9bbbf4c6b4d043a54260525e0f6a557",
+        "sha224": "e70aa3368332c3bb231de8b6bd9dd8070892f73d989ef61fe3d68cb5",
+        "sha512": "a0a65e8b8915519e56ec2803b042ec6de6a0db4acb03a88a9b2d995ebd160296bd29adccf010b53fc982c46e0980d6a92463ef16592c93afeed0bb19aa6301f8"
+    }
+}
