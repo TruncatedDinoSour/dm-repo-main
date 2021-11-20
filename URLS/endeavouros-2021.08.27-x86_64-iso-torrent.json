@@ -1,0 +1,13 @@
+{
+  "name": "endeavourOS 2021.08.27 x86_64 (torrent)",
+  "description": "ndeavourOS release 2021.08.27 for x86_64",
+  "url": "https://github.com/endeavouros-team/ISO/releases/download/1-EndeavourOS-ISO-releases-archive/endeavouros-2021.08.27-x86_64.iso.torrent",
+  "keywords": ["endeavouros", "endeavour", "eos", "endeavour-2021.08", "torrent],
+  "protocol": "torrent",
+  "speed": 193,
+  "size": 2061584302,
+  "checksums": {
+    "sha512": "7eb0eeb9f6b286f574b4e3d8dc39863f2512894ffa890568e545f66efa13408c424395ec6a0ba05a1308a8caf9cafce850337eec994225c9fd918ea90406f8a6",
+    "md5": "a82cb60fb2be52a72359bc7598563f1c"
+  }
+}
