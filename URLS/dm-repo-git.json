@@ -1,0 +1,10 @@
+{
+  "name": "DM main git repository,
+  "description": "main DM git repo",
+  "url": "https://github.com/TruncatedDinosour/dm",
+  "keywords": ["git", "dm", "download"],
+  "protocol": "git",
+  "speed": 1132.46208,
+  "size": 331776,
+  "branch": "main"
+}
