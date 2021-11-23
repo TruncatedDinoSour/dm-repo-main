@@ -1,0 +1,31 @@
+{
+    "name": "Slackware linux 14.2 release for x86_64 (amd64)",
+    "description": "Slackware linux 14.2 (x86_64)",
+    "url": "http://www.slackware.com/torrents/slackware64-14.2-install-dvd.torrent",
+    "keywords": [
+        "slack",
+        "slackware",
+        "slackware14.2",
+        "slackware 14.2",
+        "slack 14.2",
+        "slack14",
+        "slack14"
+    ],
+    "protocol": "http",
+    "speed": 40.4629,
+    "size": 27045,
+    "checksums": {
+        "sha3_384": "02b2f99c2eccd8980fcbc6948fbcd2e9b4c3f4222b5e2e754c90474c89e887e4786035c0c5bf9934cdea43c034645874",
+        "sha512": "c5e9e16f8379a6b3f536b8dd2ca677f8c9ed6f9b900cac9c4405e6cda3ffde326d9471801140a12fde1631786895cfe8e49954e39265fda6069eec6bdb5ecbbe",
+        "sha224": "34f69f2bc663a94b044c55b814a4bab4cc314e3da3411f72e38b8f89",
+        "blake2s": "d3d992fdb56dffe7b14b842edd0c65f2d3a5c1dc1fe2e7b47abffe6433963885",
+        "sha3_224": "312c34efd0de6214af0fc09e91760c74c46cf09ebdcf5e527ce7463b",
+        "sha384": "8ac1a1e4e1188d6af0ecac692596ccdca92fc44069baca43ce1bc58e15058381bab04346c29f0d580aec51a9b9330ab4",
+        "sha256": "83813e4e2217473731b2668ad9e0fbd6a6569d716640008dfcbb90044bb9224e",
+        "sha3_256": "38450f8000ad3bc40147eaccf8866db00144b5bd036f6f1b83ce729b5fed5c22",
+        "blake2b": "3cd6de3637571c51370fa7d00545f5e558f6aebbd00d8ce1c0aaa208b94808766fc3e245842c14047b2ac74b1edc81a779ae81bb18d69be743adcce749fe8d79",
+        "md5": "7f5888a3f3c67c878a0961d86e13ca89",
+        "sha3_512": "3de562fb44b0ec151b401b0f98cc295aea5533617c7e5c8685012f94b7646b6a9765f0cf51c2ba63d489c137dfdb8bb31f8cb0efc08377d103fa79725beb23bd",
+        "sha1": "68c4a8fc60eff41c843afa398a53ee82b54a2867"
+    }
+}
