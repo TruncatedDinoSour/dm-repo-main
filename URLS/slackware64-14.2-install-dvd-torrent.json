@@ -11,7 +11,7 @@
         "slack14",
         "slack14"
     ],
-    "protocol": "http",
+    "protocol": "torrent",
     "speed": 40.4629,
     "size": 27045,
     "checksums": {
