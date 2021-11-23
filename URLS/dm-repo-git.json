@@ -6,5 +6,6 @@
   "protocol": "git",
   "speed": 1132.46208,
   "size": 331776,
-  "branch": "main"
+  "branch": "main",
+  "checksums": "ignore"
 }
